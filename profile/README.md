@@ -1,3 +1,5 @@
-# AGCO Acceleration Center Technical Interviews
+# AGCO Technical Interviews
+### Champaign Acceleration Center
 
-[Link to Classroom](https://classroom.github.com/a/jZIaIlQd)
+
+
