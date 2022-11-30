@@ -8,8 +8,18 @@
 Follow along below for instructions on how to complete a technical test. Each test may have multiple prompts. Your skills will be assessed by your submitted code and any numerical answers you submit.
 
 ## Getting Started
-* Click on the GitHub Classroom link at the top of your test's README 
-* Clone the repo which is created
+* Open the repository for the test you will complete
+![Github Classroom Link Example](static/Repository%20Example.PNG)
+
+* Click on the GitHub Classroom link at the top of your test's README
+![Github Classroom Link Example](static/GitHub%20Classroom%20Link.PNG)
+
+* Accept the GitHub Classroom Assignment
+![Accept Assignment](static/Accept%20Assignment.PNG)
+
+* Clone your new repo and start working!
+![Clone Repo](static/Assignment%20Repo%20Link.PNG)
+
 
 ## Solving the Prompts
 * Unless specifically noted, tests may be completed in any programming language you want
