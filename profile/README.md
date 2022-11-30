@@ -1,4 +1,4 @@
-# AGCO Technical Interviews
+# AGCO Technical Tests
 ### Champaign Acceleration Center
 
 <br>
