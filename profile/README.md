@@ -8,7 +8,8 @@
 Follow along below for instructions on how to complete a technical test. Each test may have multiple prompts. Your skills will be assessed by your submitted code and any numerical answers you submit.
 
 ## Getting Started
-* Clone the repo for the test you have been assigned via our [GitHub Classroom](https://classroom.github.com/classrooms/114091933-agco-cac-technical-tests-github-classroom)
+* Click on the GitHub Classroom link at the top of your test's README 
+* Clone the repo which is created
 
 ## Solving the Prompts
 * Unless specifically noted, tests may be completed in any programming language you want
