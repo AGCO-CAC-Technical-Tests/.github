@@ -1,13 +1,14 @@
 # Technical Tests
 ### AGCO Champaign Acceleration Center
 
-# Tests
-Select a test from the list below.
-
-## * [primes](https://github.com/AGCO-CAC-Technical-Tests/primes)
-## * [multiples](https://github.com/AGCO-CAC-Technical-Tests/multiples)
-
 <br>
+
+# Tests
+Select a test from the list below:
+
+* ### [primes](https://github.com/AGCO-CAC-Technical-Tests/primes)
+* ### [multiples](https://github.com/AGCO-CAC-Technical-Tests/multiples)
+
 <br>
 
 # Instructions
